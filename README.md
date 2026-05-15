@@ -2,7 +2,8 @@
 
 A four-level deep dive into Retrieval-Augmented Generation, from the seven core pipeline stages through advanced techniques, production concerns, and a six-week build plan.
 
-Roughly **18,000 words** of study material — about 2–3 focused hours of reading per level if you pause to follow citations.
+<img width="1200" height="1084" alt="image" src="https://github.com/user-attachments/assets/b83a7a28-6eef-4cf9-b429-43e7a30a50ea" />
+
 
 ---
 
